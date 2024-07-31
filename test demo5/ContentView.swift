@@ -26,3 +26,6 @@ struct ContentView: View {
 
 
 // apple  double  kill
+
+
+// complicated function
